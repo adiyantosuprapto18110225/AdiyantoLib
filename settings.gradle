@@ -1,0 +1,3 @@
+include ':AdiyantoLibrary'
+include ':app'
+rootProject.name = "AndroidLibrary"
